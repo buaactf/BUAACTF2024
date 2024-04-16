@@ -2,19 +2,19 @@
 
 | 出题人 | 题目类型 | 题目分值 |
 | :----- | :------- | :------- |
-| xxx | web      | 500      |
+| chenrt | web      | 500      |
 
 ## 题目信息
 
-- 题目名称: 
-- 预估难度(1.0~5.0): 
+- 题目名称: Can You Copy Me
+- 预估难度(1.0~5.0): 3.0
 - 题目类型:
   - [] 静态附件
   - [] 动态附件
-  - [] 静态容器
+  - [x] 静态容器
   - [] 动态容器
 - 题目标签:
-  - [] web
+  - [x] web
   - [] pwn
   - [] reverse
   - [] misc
@@ -23,22 +23,18 @@
 
 ## 题目描述
 
-description
+一个奇怪的前端。
 
 ## 考点
 
-1. 考点
+1. 前端反复制和反调试的绕过。
 
 ## 提示
 
-1. Hint 1
-2. Hint 2
+1. 第二部分的文本是通过 fillText 画到 canvas 上的。
 
 ## Flag
 
-`BUAACTF{FLAG}`
+BUAACTF{6C104D84398BAC4887CA1136CC9E01DA5EA8F8D488BF20C4DF676D0E189EA3D6}
 
 ## 参考
-
-1. reference 1
-2. reference 2

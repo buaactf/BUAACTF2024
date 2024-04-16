@@ -1,0 +1,48 @@
+{
+  "name": "can-you-copy-me",
+  "author": "chenrt",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "lint": "echo for later use",
+    "test": "echo for later use",
+    "serve": "vite serve",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "disable-devtool": "^0.3.7",
+    "pinia": "^2.1.7",
+    "vdirs": "^0.1.8",
+    "vue": "^3.4.21"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.1.3",
+    "eslint-plugin-vue": "^9.24.0",
+    "javascript-obfuscator": "^4.1.0",
+    "prettier": "^3.2.5",
+    "rollup-plugin-obfuscator": "^1.1.0",
+    "rollup-plugin-visualizer": "^5.12.0",
+    "vite": "^5.2.8",
+    "vue-eslint-parser": "^9.4.2"
+  },
+  "prettier": {
+    "printWidth": 130,
+    "tabWidth": 2,
+    "bracketSpacing": true,
+    "singleQuote": true,
+    "trailingComma": "none",
+    "endOfLine": "auto"
+  },
+  "eslintConfig": {
+    "extends": [
+      "plugin:vue/vue3-recommended",
+      "plugin:prettier/recommended",
+      "eslint:recommended"
+    ]
+  }
+}

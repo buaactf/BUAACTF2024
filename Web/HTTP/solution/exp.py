@@ -1,6 +1,7 @@
 import httpx
+import sys
 
-target = "http://localhost:3000/flag"
+target = f"http://{sys.argv[1]}:{sys.argv[2]}/"
 
 headers = {
     "User-Agent": "or4ngeBrowser",

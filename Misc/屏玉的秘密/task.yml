@@ -1,0 +1,10 @@
+---
+name: 屏玉的秘密
+description: 小J在梳理嫌疑人的聊天记录时，找到了两个听起来一样的音频文件。小J总觉得有些奇怪，但是又听不出来……
+flag: "BUAACTF{1nFO_H1DD3N_1n_fr3KW3NcY_dom41N}"
+author: Joooook
+host: /
+port: /
+tags:
+  - misc
+

@@ -1,0 +1,10 @@
+---
+name: "开局托儿所"
+description: "成为小有成就的CTFer吧！ http://101.132.64.144:3000/"
+flag: "BUAACTF{B48Y_t0_8U443r_t0_C7F3R_t0_S3cUR17Y_Pr0}"
+author: Joooook
+host: /
+port: /
+tags:
+  - misc
+

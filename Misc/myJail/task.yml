@@ -1,0 +1,10 @@
+---
+name: myJail
+description: 小J喜欢变魔术，但是这次小J不小心把自己困住了，救救小J。
+flag: "BUAACTF{IM_54v3d_7H4nk_y0u_mY_frI3Nd}"
+author: Joooook
+host: 0.0.0.0
+port: 8888
+tags:
+  - misc
+

@@ -1,0 +1,10 @@
+---
+name: 签到
+description: 欢迎参加BUAACTF2024，祝你取得好成绩。关注赛博安全社团公众号，回复"BUAACTF2024"。答案全大写，用_连接，包上BUAACTF{}。
+flag: "BUAACTF{H0P3_U_ENJ0Y_TH3_8U44CTF2024}"
+author: Joooook
+host: /
+port: /
+tags:
+  - misc
+

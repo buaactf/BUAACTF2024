@@ -1,0 +1,10 @@
+---
+name: 264的秘密
+description: 小J捕获了嫌疑人电脑上的流量，发现他在朝某个服务器发送些什么……
+flag: "BUAACTF{h264_&_NALU_AR3_ChArM1ng_aNd_MaRV3L0uZ}"
+author: Joooook
+host: /
+port: /
+tags:
+  - misc
+

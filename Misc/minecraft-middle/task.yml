@@ -1,0 +1,10 @@
+---
+name: minecraft-middle
+description: 小J最近在玩某MC服务器，记性不好的他忘记了服务器ip，于是来问你地址是什么。
+flag: "BUAACTF{M1N3CR4FT_1N_tH3_M1dDl3&fL49_uNd3r_tH3_Gr455}"
+author: Joooook
+host: /
+port: /
+tags:
+  - misc
+

@@ -1,0 +1,10 @@
+---
+name: 航班的秘密
+description: 小J从温州回北京时随手拍了张照片，一张照片能泄漏什么呢。
+flag: "BUAACTF{ef1be763ade5883cf4446056a2aa1368}"
+author: Joooook
+host: /
+port: /
+tags:
+  - misc
+
